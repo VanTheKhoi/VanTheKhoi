@@ -18,6 +18,7 @@ More info about me :
 - 🔭 I’m currently working on GlassEgg
 - 📫 How to reach me: vanthekhoi@gmail.com
 - 💬 My LinkedIn : https://www.linkedin.com/in/khoi-van-262a551b2/
+- 💬 My Art Work : https://www.artstation.com/artwork/18q1m8
 <!--
 **VanTheKhoi/VanTheKhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
