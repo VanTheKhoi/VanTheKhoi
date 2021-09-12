@@ -1,5 +1,9 @@
 ### Hi there 👋
+I'm a passionate Technical Artist lived in Ho Chi Minh City, Viet Nam. After graduated I joined Glass Egg Digital Media for 3 year as a quality-oriented Technical Artist. My main roles are develop new tools, create technical checklist for company project, improve tools performance, pipelines and workflow for productivity and efficiency.
 
+- 🔭 I’m currently working on GlassEgg
+- 📫 How to reach me: vanthekhoi@gmail.com
+- 💬 My LinkedIn : https://www.linkedin.com/in/khoi-van-262a551b2/
 <!--
 **VanTheKhoi/VanTheKhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
