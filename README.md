@@ -1,6 +1,16 @@
 ### Hi there 👋
 I'm a passionate Technical Artist lived in Ho Chi Minh City, Viet Nam. After graduated I joined Glass Egg Digital Media for 3 year as a quality-oriented Technical Artist. My main roles are develop new tools, create technical checklist for company project, improve tools performance, pipelines and workflow for productivity and efficiency.
 
+Below are a few tools/technologies I have been using :
+
+- Maya Python Script              - Qt Designer     
+- Maya MEL Script                 - Maya
+- Maya API 2.0                    - Pycharm
+- PySide/Pyside2                  - Perforce
+- Photoshop Script                - Blender
+- Substance Painter Script       
+
+More info about me :
 - 🔭 I’m currently working on GlassEgg
 - 📫 How to reach me: vanthekhoi@gmail.com
 - 💬 My LinkedIn : https://www.linkedin.com/in/khoi-van-262a551b2/
