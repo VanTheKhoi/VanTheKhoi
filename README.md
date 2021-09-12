@@ -2,13 +2,17 @@
 I'm a passionate Technical Artist lived in Ho Chi Minh City, Viet Nam. After graduated I joined Glass Egg Digital Media for 3 year as a quality-oriented Technical Artist. My main roles are develop new tools, create technical checklist for company project, improve tools performance, pipelines and workflow for productivity and efficiency.
 
 Below are a few tools/technologies I have been using :
-
-- Maya Python Script              - Qt Designer     
-- Maya MEL Script                 - Maya
-- Maya API 2.0                    - Pycharm
-- PySide/Pyside2                  - Perforce
-- Photoshop Script                - Blender
-- Substance Painter Script       
+- Maya Python Script                  
+- Maya MEL Script                
+- Maya API 2.0                   
+- PySide/Pyside2                  
+- Photoshop Script                
+- Substance Painter Script   
+- Qt Designer
+- Maya
+- Pycharm
+- Perforce
+- Blender    
 
 More info about me :
 - 🔭 I’m currently working on GlassEgg
