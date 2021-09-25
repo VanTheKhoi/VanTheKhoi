@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a passionate Technical Artist lived in Ho Chi Minh City, Viet Nam. After graduated I joined Glass Egg Digital Media for 3 year as a quality-oriented Technical Artist. My main roles are develop new tools, create technical checklist for company project, improve tools performance, pipelines and workflow for productivity and efficiency.
+I'm a passionate Technical Artist lived in Ho Chi Minh City, Viet Nam. After graduated I joined Glass Egg Digital Media for 3 year as a quality-oriented Technical Artist. My main roles are develop new tools, create technical checklist for company projects, improve tools performance, pipelines and workflow for productivity and efficiency.
 
 Below are a few tools/technologies I have been using :
 - Maya Python Script                  
